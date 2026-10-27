@@ -1,0 +1,10 @@
+.env
+.venv/
+.coverage
+htmlcov/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+temp/
+export/
+matlab_simulation/slprj/
